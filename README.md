@@ -9,4 +9,4 @@ HTML ve CSS kullanılmıştır.
 
 <h2> Ekran </h2>
 
-![gif](ekran.gif)
+![](ekran.gif.gif)
