@@ -1,14 +1,12 @@
 
 <h1>Restaurant </h1>
 
-Restaurant için tasarlanmış bir menü yazılımıdır.
+It is a user-friendly software designed for restaurants
 
-<h2>Harici Teknolojiler</h2>
-
-HTML ve CSS kullanılmıştır.
+<h2>This project has been developed using HTML and CSS.</h2>
 
 <h2> Ekran </h2>
 
-![](ekran.gif)
+![](images/)
 
 
